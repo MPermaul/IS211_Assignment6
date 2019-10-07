@@ -18,6 +18,8 @@ Application Details:
 6) The convert function contained within the conversions_refactored.py file takes 2 unit inputs. 
 
 	a) The units for converting temperatures can only be: celsius, kelvin, and fahrenheit. Any other unit entered will raise a conversion error.
+	
 	b) The untis for converting distances can only be: meters, miles, and yards. Any other unit entered will rasie a conversion error.
+	
 	c) When entering units, be careful to enter the units as described above.
 
